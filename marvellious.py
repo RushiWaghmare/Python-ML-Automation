@@ -1,0 +1,15 @@
+def Addition (no1,no2):
+    ans=no1+no2
+    return ans
+
+def substraction (no1,no2):
+    ans=no1-no2
+    return ans
+
+def multiplication (no1,no2):
+    ans=no1*no2
+    return ans
+
+def Division (no1,no2):
+    ans=no1/no2
+    return ans
